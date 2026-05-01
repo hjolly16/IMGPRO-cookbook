@@ -80,7 +80,7 @@ Các kỹ thuật xử lý ảnh nâng cao để khôi phục chất lượng.
 - `wiener-filter.py`: Lọc Wiener để khôi phục ảnh mờ.
 - `blur-map.py`: Bản đồ độ mờ.
 
-### [Final Project: Ứng dụng thực tế](final/)
+### [Lesson 10: Ứng dụng thực tế](final/)
 Tổng hợp kiến thức để xây dựng ứng dụng hoàn chỉnh.
 - `document-scaner.py`: Máy quét tài liệu.
 - `barcode-qr.py`: Đọc mã vạch và QR code.
